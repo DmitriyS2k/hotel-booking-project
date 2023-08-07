@@ -1,0 +1,188 @@
+{
+  "apartsData": [
+    {
+      "id": 1,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470485.jpg?k=009a115e013f9783210365084d263f8fe18e6b07c8bafc92a75d3287056a10fd&o=&hp=1",
+      "apartNumber": 1,
+      "price": 1200,
+      "capacity": 2,
+      "isConditioner": true,
+      "isBalcony": false,
+      "isBook": false,
+      "userIdWhoBook": null
+    },
+    {
+      "id": 2,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/334336589.jpg?k=278ebdd3f970c8436069a78f0cdeb58c1f2fcd6cd81576a4abcb35cc645e18c9&o=&hp=1",
+      "apartNumber": 2,
+      "price": 1800,
+      "capacity": 3,
+      "isConditioner": true,
+      "isBalcony": false,
+      "isBook": false,
+      "userIdWhoBook": 2
+    },
+    {
+      "id": 3,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470720.jpg?k=7914ac4bcbc2a2e5e03c2dcfb6f4dae1f5f264f760697f533627e9faa664be57&o=&hp=1",
+      "apartNumber": 4,
+      "price": 2200,
+      "capacity": 4,
+      "isConditioner": true,
+      "isBalcony": true,
+      "isBook": false,
+      "userIdWhoBook": 2
+    },
+    {
+      "id": 4,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470512.jpg?k=a1c097ceacdb9ae2845381a84b2f03bd148cd2a04415f063fb925940293c4dd6&o=&hp=1",
+      "apartNumber": 5,
+      "price": 2000,
+      "capacity": 4,
+      "isConditioner": false,
+      "isBalcony": true,
+      "isBook": false,
+      "userIdWhoBook": 2
+    },
+    {
+      "id": 5,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469358.jpg?k=d8a2305aded114938665cba591e1d9d644e2412f48b0663c9b5a8ac2fce87372&o=&hp=1",
+      "apartNumber": 6,
+      "price": 2500,
+      "capacity": 4,
+      "isConditioner": true,
+      "isBalcony": false,
+      "isBook": false,
+      "userIdWhoBook": 2
+    },
+    {
+      "id": 6,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333455845.jpg?k=9ca3fef216ee1045743a1419981dd1a5f4521e8a5a02646659dd3706881d8154&o=&hp=1",
+      "apartNumber": 7,
+      "price": 1500,
+      "capacity": 3,
+      "isConditioner": false,
+      "isBalcony": true,
+      "isBook": false,
+      "userIdWhoBook": 2
+    },
+    {
+      "id": 7,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469850.jpg?k=9330416f52b0b5dc9849f8ccc96944749a2a75bda2a2bcd4129857a16000b71d&o=&hp=1",
+      "apartNumber": 8,
+      "price": 3200,
+      "capacity": 5,
+      "isConditioner": true,
+      "isBalcony": false,
+      "isBook": false,
+      "userIdWhoBook": null
+    },
+    {
+      "id": 8,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333456096.jpg?k=04b40cdfa5f3d4314446c8687ab20ce26cf634737cfc30a0eda63705c0157b0b&o=&hp=1",
+      "apartNumber": 9,
+      "price": 2200,
+      "capacity": 2,
+      "isConditioner": true,
+      "isBalcony": true,
+      "isBook": false,
+      "userIdWhoBook": 2
+    },
+    {
+      "id": 9,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333455942.jpg?k=8034f935cd5d767f1a502b37732a7edf057695cda1380a0f9836d4fd4b8608a1&o=&hp=1",
+      "apartNumber": 10,
+      "price": 3400,
+      "capacity": 4,
+      "isConditioner": true,
+      "isBalcony": true,
+      "isBook": false,
+      "userIdWhoBook": null
+    }
+  ],
+  "imgDataHomePage": [
+    {
+      "id": 1,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469775.jpg?k=c9574c1d267996124a5f5896eb3abc12689be53682ef9e66a73d59c96018a7b1&o=&hp=1",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 2,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470448.jpg?k=f0c4a2638df2548e7b968bccd40307eaa56b8224fcdacc3739e130b2ccd96b43&o=&hp=1"
+    },
+    {
+      "id": 3,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470640.jpg?k=bf1ae47dd86657006e22ee69bcbc61dac121c91b33abfeeebb6b366cedb8e69d&o=&hp=1"
+    },
+    {
+      "id": 4,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470402.jpg?k=e9ceed6c8f2cd52c7d350bd5432f6a96a3b388d42344374fa590876b0edbcaa9&o=&hp=1",
+      "cols": 2
+    },
+    {
+      "id": 5,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469857.jpg?k=a991c6d4adf1cf4717662ffec5ae5f8e14383c980abe45c008d89785539f0226&o=&hp=1",
+      "cols": 2
+    },
+    {
+      "id": 6,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469388.jpg?k=5c625e7bc1f9c70e42074d456fd7487536b9ed8b2f18eed8db4972d4556aa783&o=&hp=1",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 7,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333455942.jpg?k=8034f935cd5d767f1a502b37732a7edf057695cda1380a0f9836d4fd4b8608a1&o=&hp=1"
+    },
+    {
+      "id": 8,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469171.jpg?k=8cde3bdbb0a873c12df0c44f2b688c130a03995ddb0bb0af591b227ef3d34cd8&o=&hp=1"
+    },
+    {
+      "id": 9,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333469775.jpg?k=c9574c1d267996124a5f5896eb3abc12689be53682ef9e66a73d59c96018a7b1&o=&hp=1",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 10,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470448.jpg?k=f0c4a2638df2548e7b968bccd40307eaa56b8224fcdacc3739e130b2ccd96b43&o=&hp=1"
+    },
+    {
+      "id": 11,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470640.jpg?k=bf1ae47dd86657006e22ee69bcbc61dac121c91b33abfeeebb6b366cedb8e69d&o=&hp=1"
+    },
+    {
+      "id": 12,
+      "pic": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333470402.jpg?k=e9ceed6c8f2cd52c7d350bd5432f6a96a3b388d42344374fa590876b0edbcaa9&o=&hp=1",
+      "cols": 2
+    }
+  ],
+  "usersData": [
+    {
+      "id": 1,
+      "name": "Katya",
+      "phone": "0954422789",
+      "password": "qwerty",
+      "bookApartByUser": [],
+      "isAdmin": false
+    },
+    {
+      "id": 2,
+      "name": "Dima",
+      "phone": "0954422777",
+      "password": "qwerty1",
+      "bookApartByUser": [],
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "name": "Kirill",
+      "phone": "0954422123",
+      "password": "qwerty2",
+      "bookApartByUser": [],
+      "isAdmin": false
+    }
+  ]
+}

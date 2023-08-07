@@ -1,0 +1,189 @@
+* {
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.App {
+  background-color: rgba(255, 255, 255, 0.64);
+}
+
+.about-container {
+  padding: 0 100px 0 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home-pic-container {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Header */
+
+.main-menu {
+  flex-grow: 1;
+}
+
+.main-menu ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.main-menu li {
+  display: block;
+  margin-left: 30px;
+}
+
+.main-menu a {
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+}
+
+.main-menu a:active {
+  color: rgba(255, 255, 255, 0.41);
+}
+
+.main-menu a:hover {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.right-button-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.right-button-group:first-of-type div {
+  margin-right: 20px;
+}
+
+/* signform */
+
+.hepler-text-signform {
+  right: 200px;
+  top: 250px;
+  position: absolute;
+  padding: 5px;
+  border: 3px dotted black;
+  border-radius: 5px;
+}
+
+/* apart catalog and page*/
+
+.apart-catalog {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 30px;
+}
+
+.single-apart-text {
+  padding-left: 30px;
+}
+
+.single-apart-text > * {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.single-apart-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.single-apart-page-card {
+  width: 800px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.apart-isbook-true {
+  color: #cb0000;
+  font-weight: 700;
+}
+
+.apart-isbook-false {
+  color: darkgreen;
+  font-weight: 700;
+}
+
+.isbook-true-img {
+  filter: grayscale(100%);
+}
+
+/*register form*/
+
+.register-form-container {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.register-form-container > * {
+  margin-top: 20px !important;
+}
+
+/* admin panel */
+
+.admin-panel-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.admin-panel-graphics {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.admin-panel-bookaparts {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.admin-panel-book-item-container {
+  display: grid;
+  grid-template-columns: 70px 70px 70px;
+  grid-column-gap: 7px;
+  grid-row-gap: 7px;
+}
+
+.admin-panel-book-item {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+}
+
+.admin-panel-book-item:hover {
+  opacity: 0.5;
+}
